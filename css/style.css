@@ -1,0 +1,82 @@
+/* This is Style Sheet*/
+body{
+	background-color: lightblue;
+	background-image: url("../images/desert.jpg");
+}
+.syntax{
+	background-color: lightyellow;
+	width: 70%;
+	height: auto;
+	margin:0 auto;
+	padding: 10px 0px 10px 40px;
+	border: 5px solid purple;
+	border-radius: 20px 40px;
+	margin-bottom: 40px;
+}
+h1{
+	color:blue;
+	font-family: verdana;
+}
+h2{
+	color:green;
+	font-family: verdana;
+	margin-bottom: -20px;
+}
+pre{
+	font-size: 30px;
+}
+#aa{
+	color:red;
+}
+#ab{
+	color:blue;
+}
+#ac{
+	color:green;
+}
+#ad{
+	color:orange;
+}
+#ae{
+	color:blue;
+}
+#a{
+	font-size: 20px;
+	color: red;
+}
+#b{
+	font-size: 20px;
+	color: blue;
+}
+#ba{
+	font-size: 20px;
+	color: green;
+}
+#bb{
+	font-size: 20px;
+	color: orange;
+}
+.a{
+	margin-bottom: -20px;
+}
+.b{
+	margin-top: -20px;
+}
+.box{
+	width: 440px;
+	height: 440px;
+	outline: 10px solid red;
+	margin: 10px auto;
+	position: relative;
+}
+.box p{
+   height:300px;
+   width: 300px;
+   background-color: lightgreen;
+   padding: 40px;
+   font-size: 20px;
+   border: 20px solid green;
+   margin-top: 10px;
+   margin-left: 10px;
+   position: absolute;
+}
